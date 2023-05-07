@@ -1,40 +1,40 @@
-#header{
-  width:100%;
-  height:200px;
+#header {
+  width: 100%;
+  height: 200px;
 }
-#leftPane{
-  width:50%;
-  background:#EDEDED;
-  float:left;
-  margin:5px;
-  padding:5px;
+#leftPane {
+  width: 50%;
+  background: #ededed;
+  float: left;
+  margin: 5px;
+  padding: 5px;
 }
-#heading,#description{
+#heading,
+#description {
   font-family: Arial, Helvetica, sans-serif;
 }
-#description{
-  font-size:13px;
+#description {
+  font-size: 13px;
 }
-#rightPane{
-  width:40%;
-  float:right;
-  margin:5px;
-  padding:5px;
-  padding-top:10px;
+#rightPane {
+  width: 40%;
+  float: right;
+  margin: 5px;
+  padding: 5px;
+  padding-top: 10px;
 }
-#input{
-  border:none;
-  font-size:40px;
-  outline:none;
-  font-weight:bold;
+#input {
+  border: none;
+  font-size: 40px;
+  outline: none;
+  font-weight: bold;
 }
-::placeholder{
-  color:gray;
+::placeholder {
+  color: gray;
 }
-#newTask{
-  width:90%;
-  border:1px solid rgb(190, 188, 188);
- padding:3px;
- margin:5px;
-  
+#newTask {
+  width: 90%;
+  border: 1px solid rgb(190, 188, 188);
+  padding: 3px;
+  margin: 5px;
 }
